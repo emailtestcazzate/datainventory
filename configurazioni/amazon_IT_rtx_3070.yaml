@@ -1,0 +1,39 @@
+---
+refresh_interval: 2 # seconds
+max_price: 710 # dollars/euros/etc
+urls:
+  - https://www.amazon.it/Gigabyte-GeForce-RTX-3070-GAMING/dp/B08KHL21CV/
+  - https://www.amazon.it/Gigabyte-GeForce-RTX-3070-VISION/dp/B08LNWPYRS/
+  - https://www.amazon.it/Gigabyte-GeForce-RTX-3070-EAGLE/dp/B08KHL2J5X/
+  - https://www.amazon.it/MSI-RTX-3070-Gaming-Trio/dp/B08LNPPCWJ/
+  - https://www.amazon.it/Palit-GamingPro-Ray-Tracing-DisplayPort-TurboFan/dp/B08LDS72P2/
+  - https://www.amazon.it/ZOTAC-GAMING-GeForce-3070-Twin/dp/B08LBVNKT1/
+  - https://www.amazon.it/Gigabyte-AORUS-GeForce-3070-MASTER/dp/B08LNY8P5L/
+  - https://www.amazon.it/GIGABYTE-GeForce-WINDFORCE-GV-N3070VISION-OC-8GD/dp/B08M13DXSZ/
+  - https://www.amazon.it/Gigabyte-GeForce-GAMING-Scheda-Grafica/dp/B08P3JL63Y
+  - https://www.amazon.it/Gigabyte-GeForce-MASTER-Scheda-Grafica/dp/B08NW5CGXT
+  - https://www.amazon.it/Gigabyte-GeForce-GAMING-Scheda-Grafica/dp/B08NW2X37Z
+  - https://www.amazon.it/Gigabyte-GeForce-EAGLE-Scheda-Grafica/dp/B08NW528S1
+  - https://www.amazon.it/Gigabyte-GeForce-EAGLE-Scheda-Grafica/dp/B08P3JPX8P
+  - https://www.amazon.it/Zotac-Gaming-GeForce-3060-ZT-A30610E-10M/dp/B08P34VCVN
+  - https://www.amazon.it/Zotac-Gaming-GeForce-3060-ZT-A30610H-10M/dp/B08P3BJ9Y8
+  - https://www.amazon.it/PNY-Scheda-Grafica-GeForce-Gaming/dp/B08NW693LG
+  - https://www.amazon.it/PNY-Scheda-Grafica-GeForce-UPRISING/dp/B08NW5HNYW
+  - https://www.amazon.it/ASUS-Gaming-GeForce-3060-TUF-RTX3060TI-O8G-GAMING/dp/B08NZ4G4T2
+  - https://www.amazon.it/ASUS-GeForce-grafica-DisplayPort-ROG-STRIX-RTX3060TI-O8G-GAMING/dp/B08NW3TVRT
+  - https://www.amazon.it/MSI-TI-VENTUS-2X-OC/dp/B08NW2YJB2
+  - https://www.amazon.it/MSI-GeForce-Express-DisplayPort-Tracing/dp/B08NW32F74
+  - https://www.amazon.it/grafica-MSI-GEFORCE-Express-14000MHz/dp/B08NW76K61
+  - https://www.amazon.it/EVGA-GeForce-08G-P5-3667-KR-Cooling-Backplate/dp/B08PDMYN2D
+  - https://www.amazon.it/EVGA-GeForce-08G-P5-3665-KR-Cooling-Backplate/dp/B08PDN36R3
+  - https://www.amazon.it/EVGA-GeForce-GAMING-08G-P5-3662-KR-Cooling/dp/B08PDMVPZ4
+  - https://www.amazon.it/EVGA-GeForce-08G-P5-3661-KR-Dual-Fan-Backplate/dp/B08PDMH5XK
+  - https://www.amazon.it/EVGA-GeForce-08G-P5-3663-KR-DualFan-Backplate/dp/B08PDP837W
+  - https://www.amazon.it/MSI-GeForce-DisplayPort-supporto-Afterburner/dp/B08LNQTSCT
+  - https://www.amazon.it/ZOTAC-Scheda-grafica-GEFORCE-ZT-A30700E-10P/dp/B08HRBR7K9
+  - https://www.amazon.it/Gigabyte-GeForce-RTX-3070-GAMING/dp/B08KHL21CV
+  - https://www.amazon.it/MSI-GeForce-DisplayPort-supporto-Afterburner/dp/B08L6PCZTR
+  - https://www.amazon.it/PNY-Scheda-Grafica-GeForce-UPRISING/dp/B08HBF5L3K
+  
+...
+

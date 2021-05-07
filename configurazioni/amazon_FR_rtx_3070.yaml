@@ -1,0 +1,43 @@
+---
+refresh_interval: 2 # seconds
+max_price: 710 # dollars/euros/etc
+urls:
+  - https://www.amazon.fr/ZOTAC-GAMING-GeForce-3070-Twin/dp/B08LBVNKT1/
+  - https://www.amazon.fr/MSI-GeForce-256-Bit-Architektur-Grafikkarte/dp/B08KWLMZV4/
+  - https://www.amazon.fr/MSI-RTX-3070-Gaming-Trio/dp/B08LNPPCWJ/
+  - https://www.amazon.fr/Gigabyte-GeForce-3070-Vision-Grafikkarte/dp/B08LNWPYRS/
+  - https://www.amazon.fr/PNY-GeForce-RTXTM-UPRISING-Grafikkarte/dp/B08HBF5L3K/
+  - https://www.amazon.fr/Gigabyte-AORUS-GeForce-Master-Grafikkarte/dp/B08LNY8P5L/
+  - https://www.amazon.fr/GeForce-RTX-3070-Ventus-2X/dp/B08LNQTSCT/
+  - https://www.amazon.fr/EVGA-GeForce-08G-P5-3755-KR-Cooling-Backplate/dp/B08L3Q41SM/
+  - https://www.amazon.fr/Palit-GamingPro-Ray-Tracing-Grafikkarte-DisplayPort/dp/B08LDS72P2/
+  - https://www.amazon.fr/EVGA-08G-P5-3767-KR-GeForce-Technologie-Metall-R%C3%BCckplatte/dp/B08L8L9TCZ/
+  - https://www.amazon.fr/ASUS-Grafikkarte-Speicher-DisplayPort-DUAL-RTX3070-8G/dp/B08KHFZN9P/
+  - https://www.amazon.fr/MSI-GeForce-Tri-Frozr-Architektur-Grafikkarte/dp/B08KWN2LZG/
+  - https://www.amazon.fr/GeForce-RTX-3070-Suprim-Grafikkarte/dp/B08QZP2RRS/
+  - https://www.amazon.fr/Gigabyte-GeForce-RTX-3070-GAMING/dp/B08KHL21CV/
+  - https://www.amazon.fr/Gigabyte-GeForce-RTX-3070-EAGLE/dp/B08KHL2J5X/
+  - https://www.amazon.fr/GIGABYTE-GeForce-WINDFORCE-GV-N3070VISION-OC-8GD/dp/B08M13DXSZ/
+  - https://www.amazon.fr/Gigabyte-GeForce-GAMING-Scheda-Grafica/dp/B08P3JL63Y
+  - https://www.amazon.fr/Gigabyte-GeForce-MASTER-Scheda-Grafica/dp/B08NW5CGXT
+  - https://www.amazon.fr/Gigabyte-GeForce-GAMING-Scheda-Grafica/dp/B08NW2X37Z
+  - https://www.amazon.fr/Gigabyte-GeForce-EAGLE-Scheda-Grafica/dp/B08NW528S1
+  - https://www.amazon.fr/Gigabyte-GeForce-EAGLE-Scheda-Grafica/dp/B08P3JPX8P
+  - https://www.amazon.fr/Zotac-Gaming-GeForce-3060-ZT-A30610E-10M/dp/B08P34VCVN
+  - https://www.amazon.fr/Zotac-Gaming-GeForce-3060-ZT-A30610H-10M/dp/B08P3BJ9Y8
+  - https://www.amazon.fr/PNY-Scheda-Grafica-GeForce-Gaming/dp/B08NW693LG
+  - https://www.amazon.fr/PNY-Scheda-Grafica-GeForce-UPRISING/dp/B08NW5HNYW
+  - https://www.amazon.fr/ASUS-Gaming-GeForce-3060-TUF-RTX3060TI-O8G-GAMING/dp/B08NZ4G4T2
+  - https://www.amazon.fr/ASUS-GeForce-grafica-DisplayPort-ROG-STRIX-RTX3060TI-O8G-GAMING/dp/B08NW3TVRT
+  - https://www.amazon.fr/MSI-TI-VENTUS-2X-OC/dp/B08NW2YJB2
+  - https://www.amazon.fr/MSI-GeForce-Express-DisplayPort-Tracing/dp/B08NW32F74
+  - https://www.amazon.fr/grafica-MSI-GEFORCE-Express-14000MHz/dp/B08NW76K61
+  - https://www.amazon.fr/EVGA-GeForce-08G-P5-3667-KR-Cooling-Backplate/dp/B08PDMYN2D
+  - https://www.amazon.fr/EVGA-GeForce-08G-P5-3665-KR-Cooling-Backplate/dp/B08PDN36R3
+  - https://www.amazon.fr/EVGA-GeForce-GAMING-08G-P5-3662-KR-Cooling/dp/B08PDMVPZ4
+  - https://www.amazon.fr/EVGA-GeForce-08G-P5-3661-KR-Dual-Fan-Backplate/dp/B08PDMH5XK
+  - https://www.amazon.fr/EVGA-GeForce-08G-P5-3663-KR-DualFan-Backplate/dp/B08PDP837W
+  - https://www.amazon.fr/ZOTAC-Scheda-grafica-GEFORCE-ZT-A30700E-10P/dp/B08HRBR7K9
+  - https://www.amazon.fr/MSI-GeForce-DisplayPort-supporto-Afterburner/dp/B08L6PCZTR
+
+...

@@ -1,0 +1,6 @@
+---
+alerters:
+  telegram:
+    webhook_url: https://api.telegram.org/bot1764193854:AAGKtMis-AVWhmj0dSlMPt5AufOGkIkTUO4/sendmessage
+    chat_id: 179422634
+...

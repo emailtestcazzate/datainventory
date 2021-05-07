@@ -1,0 +1,10 @@
+git clone https://github.com/EricJMarti/inventory-hunter
+cd inventory-hunter
+docker pull ericjmarti/inventory-hunter:latest
+./docker_run.bash -c ./config/amazon_IT_rtx_3070.yaml -a telegram -w https://api.telegram.org/bot{VOSTRA URL API TELEGRAM}/sendMessage -d chat_id {VOSTO ID CHAT}
+
+
+
+Stop and remove all containers related to inventory-hunter
+$ docker stop CONTAINER_NAME
+$ docker rm CONTAINER_NAME
